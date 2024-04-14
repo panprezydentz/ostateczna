@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red-color {
+    color: red;
+    text-shadow: 1px 1px 3px #000;}
+
+    h1 {
+        background-color: rgb(148, 148, 148);
+        margin: 30px;
+        padding: 10px;
+        border-radius: 20px;
+        color: aliceblue;
+    }
